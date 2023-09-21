@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on managing and improving developer experience at [Comp Junior](https://github.com/Comp-Junior)
-- 👯 I’m looking to collaborate on anything related to DX, specially for web developers
-
-- 💬 Ask me everything about the web 
-- 📫 You can reach me on twitter or any other social media
+- 🔭 I’m currently managing and improving peoples' experience with web technologies at [Comp Junior](https://github.com/Comp-Junior)
+- 👯 I’m looking to collaborate on anything related to web and DX
+- 💬 Ask me everything about the web
+- 📫 You can reach me on Twitter/X or any other social media in my links
